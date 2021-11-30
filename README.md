@@ -2,7 +2,8 @@
 🌱 I’m currently studying Games Design and Programming
 
 📫 How To Reach Me:  
-Website: https://benthompson-dev.github.io/  
+Website / Portfolio: https://benthompson-dev.github.io/  
+LinkedIn: https://www.linkedin.com/in/benjamin-thompson-dev/  
 itch.io: https://ben-thompson.itch.io  
 Twiiter: https://twitter.com/BenThompson_Dev  
 
