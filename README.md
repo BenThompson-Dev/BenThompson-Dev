@@ -1,5 +1,4 @@
 👋 Hi, I’m Ben Thompson  
-🌱 I’m currently studying Computer Games Design and Programming at Staffordshire University
 
 📫 How To Reach Me:  
 Website / Portfolio: https://benthompson-dev.github.io/  
