@@ -2,7 +2,7 @@
 
 📫 How To Reach Me:  
 Website / Portfolio: https://benthompson-dev.github.io/  
-LinkedIn: [https://www.linkedin.com/in/benjamin-thompson-dev/](https://www.linkedin.com/in/benthompson-dev/) 
+LinkedIn: https://www.linkedin.com/in/benthompson-dev/
 itch.io: https://ben-thompson.itch.io  
 Twitter: https://twitter.com/BenThompson_Dev
 
